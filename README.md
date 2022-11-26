@@ -14,14 +14,20 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nicolasvargaszz.github.io/cv-page/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://nicolasvargaszz.github.io/cv-page/#gh-dark-mode-only)
+[![website](![image](https://user-images.githubusercontent.com/65906810/204064900-8c91a7c4-a4ba-42e6-9394-85a0edd1d9dc.png)
+)](https://nicolasvargaszz.github.io/cv-page/#gh-light-mode-only)
+[![website](![image](https://user-images.githubusercontent.com/65906810/204064927-ef2a0597-4e99-4368-b6d7-d644472df6cd.png)
+)](https://nicolasvargaszz.github.io/cv-page/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nicoelingeniero)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nicoelingeniero#gh-dark-mode-only)
+[![website](![image](https://user-images.githubusercontent.com/65906810/204064956-d541cdf3-ca00-4c16-8ea1-dcf779d1a8f9.png)
+)](https://twitter.com/nicoelingeniero)
+[![website](![image](https://user-images.githubusercontent.com/65906810/204064960-acdc4b87-3bce-459b-8fde-952657a55ac6.png)
+)](https://twitter.com/nicoelingeniero#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEe1NYehQiywNVHD8YEz5A%3D%3D#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEe1NYehQiywNVHD8YEz5A%3D%3D#gh-dark-mode-only)
+[![website](![image](https://user-images.githubusercontent.com/65906810/204064984-2c361930-2cf3-49b8-a0ae-a9df355bdc1b.png)
+)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEe1NYehQiywNVHD8YEz5A%3D%3D#gh-light-mode-only)
+[![website](![image](https://user-images.githubusercontent.com/65906810/204064988-07ffaf52-610c-4c07-be79-95de469c91ef.png)
+)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEe1NYehQiywNVHD8YEz5A%3D%3D#gh-dark-mode-only)
 
 
 ### Languages and Tools:
@@ -39,12 +45,6 @@
 
 <br />
 <br />
-
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>

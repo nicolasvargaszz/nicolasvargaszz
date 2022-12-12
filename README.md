@@ -4,13 +4,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoelingeniero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nicoelingeniero)
 
 
-## I'm a Student, Friend, Developer, and a boyfriend!!
+## I'm a Student, Friend, Developer, and a Teacher!!
  
-- 🌱 I’m currently learning everything 🤣, especially Data Sciences, Machine learning, database administration, data visualization and data analysis
-- 👯 I’m looking to collaborate with other programmers and contributing with open source projects 
-- 🥅 2022 Goals: Learn more about artificial intelligences 
-- ⚡ Fun fact: I love to play basketball and learn about Physics
-
+- 🌱 I’m currently learning everything 🤣, especially Data Sciences, Machine learning, database administration, data visualization and data analysis.
+- 👯 I’m looking to collaborate with other programmers and contributing with open source projects.
+- 🥅 2022 Goals: Learn more about artificial intelligences.
+- ⚡ Fun fact: I love to play basketball and learn about Physics.
+- 🔨 Rigth now i'm working on a Data sciences and bussines intelligences company. Here in my contry Paraguay.
 
 ### Connect with me:
 

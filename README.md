@@ -39,4 +39,6 @@
 <br />
 <br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasvargaszz&theme=dark&background=000000)](https://git.io/streak-stats)
+![nicolasvargaszz's Stats](https://github-readme-stats.vercel.app/api?username=nicolasvargaszz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![nicolasvargaszz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasvargaszz&theme=vue-dark&hide_border=true)
+![nicolasvargaszz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

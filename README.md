@@ -6,9 +6,9 @@
 
 ## I'm a Student, Friend, Developer, and a Teacher!!
  
-- 🌱 I’m currently learning everything 🤣, especially Data Sciences, Machine learning, database administration, data visualization and data analysis.
+- 🌱 I’m currently learning new things about Data Sciences, Machine learning, database administration, data visualization and data analysis.
 - 👯 I’m looking to collaborate with other programmers and contributing with open source projects.
-- 🥅 2024 Goals: Learn more about Machine Learning models and algorithm, also interested about CNNa.
+- 🥅 2024 Goals: Learn more about Machine Learning models and algorithm, also interested about CNNs.
 - ⚡ Fun fact: I started learning programming when i was 11 years old in C++.
 - 🔨 Rigth now i'm working on a Data sciences and bussines intelligences company. Here in my contry Paraguay.
 

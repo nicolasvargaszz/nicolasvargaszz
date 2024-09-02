@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoelingeniero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nicoelingeniero)
 
 
-## I'm a Student, Friend, Developer, and a Teacher!!
+## I'm a Student, Friend, Developer, and a Teacher!!!
  
 - 😀I’m currently learning new things about Data Sciences, Machine learning, database administration, data visualization and data analysis.
 - 🫡 I’m looking to collaborate with other programmers and contributing with open source projects.

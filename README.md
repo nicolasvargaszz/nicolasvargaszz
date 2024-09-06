@@ -45,7 +45,6 @@
 
 - **[Acute Lymphoblastic Leukemia Classifier](https://github.com/nicolasvargaszz/acute-lymphoblastic-leukemia-classifier)**: A Flask-based web application for classifying leukemia images into specific types and stages using TensorFlow and scikit-image.
 
-- **[Canasta Basica Alimentaria](https://github.com/nicolasvargaszz/Canasta-Basica-Alimentaria)**: A project to determine the cheapest basic food basket in Paraguay using web scraping to analyze data from top supermarkets. The cheapest supermarket found was "Casa Grutter."
 
 - **[Azure Voice-to-Text](https://github.com/nicolasvargaszz/Azure-Voice-to-Text)**: A hackathon project that uses Azure Cognitive Services for text-to-speech and text classification, integrated into a medical consultation app called Poharogapp.
 

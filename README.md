@@ -1,6 +1,6 @@
 # Hi there, I'm Nicolás Vargas 👋 
 
-[![Website](https://nicolasvargaszz.github.io/Cv-Page-English/)
+[![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fnicolasvargaszz.github.io%2Fcv-page%2F)](https://nicolasvargaszz.github.io/Cv-Page-English/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoelingeniero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nicoelingeniero)
 

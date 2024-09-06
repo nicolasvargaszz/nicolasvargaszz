@@ -1,45 +1,38 @@
-# Hi there, I'm Nikito 👋 
-
-[![Website](https://img.shields.io/website?label=nikitocv&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nicolasvargaszz.github.io/Cv-Page-English/index.html)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/nicoelingeniero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nicoelingeniero)
+Hi there, I'm Nicolás Vargas 👋
 
 
-## I'm a Student, Friend, Developer, and a Teacher!!!
- 
-- 😀I’m currently learning new things about Data Sciences, Machine learning, database administration, data visualization and data analysis.
-- 🫡 I’m looking to collaborate with other programmers and contributing with open source projects.
-- 🎮 2024 Goals: Learn more about Machine Learning models and algorithm, also interested about CNNs.
-- 👾Fun fact: I started learning programming when i was 12 years old in C++.
-- 🧑🏻‍💻 Rigth now i'm studying computer Science eng.
+About Me
+Hello! I’m Nicolás Vargas, a dedicated Data Scientist and Python Developer with a strong passion for leveraging data to drive actionable insights and solutions. I am currently pursuing a degree in Computer Engineering, focusing on advanced data manipulation, machine learning, and data analysis.
 
-### Connect with me:
+What I’m Doing
+🔍 Exploring New Frontiers: I’m actively learning about advanced machine learning models, data science techniques, and new technologies in the field of data analysis.
+🤝 Collaborating & Contributing: I’m enthusiastic about collaborating with fellow programmers and contributing to open-source projects.
+🎯 2024 Goals: Deepening my understanding of machine learning models, especially CNNs, and continuing to refine my skills in predictive analytics and data visualization.
+Fun Facts
+💻 Programming Journey: I began my coding journey at the age of 12 with C++ and have since expanded my expertise to Python, SQL, and various other technologies.
+🌍 Multilingual: I am fluent in English, German, Spanish, and Guarani, which helps me connect with a diverse range of professionals and contribute to global projects.
+Connect with Me
 
-[![website](./globe-light.svg)](https://nicolasvargaszz.github.io/cv-page/#gh-light-mode-only)
-[![website](./globe-light.svg)](https://nicolasvargaszz.github.io/cv-page/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./twitter-light.svg)](https://twitter.com/nicoelingeniero)
-[![website](./twitter-light.svg)](https://twitter.com/nicoelingeniero#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEe1NYehQiywNVHD8YEz5A%3D%3D#gh-light-mode-only)
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEe1NYehQiywNVHD8YEz5A%3D%3D#gh-dark-mode-only)
+Technologies & Tools
 
+Projects
+Canasta-Basica-Alimentaria: A project that uses web scraping to compare prices of basic food baskets across major supermarkets in Paraguay. Leveraged technologies like Python, Pandas, Numpy, and Flask to deliver insights on cost-effective options.
 
-### Languages and Tools:
+Acute-Lymphoblastic-Leukemia-Classifier: Developed a Flask web application that classifies leukemia images into specific types and stages using TensorFlow and scikit-image. Integrated models for precise image analysis and classification.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+Stock-MachineLearning: Implemented intelligent inventory management for a fabric company in Paraguay using machine learning. Utilized various predictive models, including Facebook Prophet, to optimize stock management and improve forecasting accuracy.
 
+Azure-Voice-to-Text: A web application that records and transcribes medical consultations using Azure Cognitive Services. Incorporated Flask and Azure's text-to-speech capabilities to enhance medical consultation processes.
 
-<br />
-<br />
-
-![nicolasvargaszz's Stats](https://github-readme-stats.vercel.app/api?username=nicolasvargaszz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![nicolasvargaszz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasvargaszz&theme=vue-dark&hide_border=true)
-![nicolasvargaszz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+Skills & Expertise
+Programming Languages: Python, SQL, JavaScript
+Data Science & Analysis: Machine Learning, Predictive Modeling, Text Classification, Statistical Analysis
+Data Visualization: Power BI, Matplotlib, Seaborn, Plotly
+Database Technologies: MySQL, SQL Server
+Cloud Platforms: Microsoft Azure, Azure Cognitive Services
+Web Development: Flask, FastAPI, HTML, CSS, Tailwind CSS
+Version Control: Git
+Professional Experience
+Internship at NEXTER S.A.: Contributed to the development of the Statistics for Data Science course and assisted students in learning MicroStrategy, a BI tool.
+University Projects: Worked on advanced machine learning and computer vision projects, including leukemia classification and time series forecasting.
+Feel free to explore my projects and reach out if you'd like to connect or collaborate on exciting opportunities!

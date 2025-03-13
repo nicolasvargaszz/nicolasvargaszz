@@ -8,9 +8,9 @@
 
 🎓 **Currently**: I am pursuing a degree in Computer Science Engineering and exploring advanced topics in Data Science and Machine Learning.
 
-💡 **Learning Goals for 2024**: Deepen my knowledge in Machine Learning models and algorithms, with a particular focus on Convolutional Neural Networks (CNNs) and their applications.
+💡 **Learning Goals for 2025**: Deepen my knowledge in Machine Learning models and algorithms, and their applications.
 
-🌟 **Fun Fact**: I started my programming journey at the age of 12 with C++ and have since grown passionate about data science and machine learning.
+🌟 **Fun Fact**: I started my programming journey at the age of 13 with C++ and have since grown passionate about data science and machine learning.
 
 🌐 **Languages**: I speak English, German, Spanish, and Guarani.
 

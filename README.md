@@ -6,7 +6,7 @@
 
 ## About Me
 
-🎓 **Currently**: I am pursuing a degree in Computer Science @UPTP 🇹🇼🇵🇾 Engineering and exploring advanced topics in Data Science and Machine Learning.
+🎓 **Currently**: I am pursuing a degree in Computer Science @UPTP 🇹🇼🇵🇾 engineering and exploring advanced topics in Data Science and Machine Learning.
 
 💡 **Learning Goals for 2025**: Deepen my knowledge in Machine Learning models and algorithms, and their applications.
 

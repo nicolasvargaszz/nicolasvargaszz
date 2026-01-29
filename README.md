@@ -8,7 +8,7 @@
 
 🎓 **Currently**: I am pursuing a degree in Computer Science @UPTP 🇹🇼🇵🇾 engineering and exploring advanced topics in Data Science and Machine Learning.
 
-💡 **Learning Goals for 2025**: Deepen my knowledge in Machine Learning models and algorithms, and their applications.
+💡 **Learning Goals for 2026**: Deepen my knowledge in Machine Learning models and algorithms, and their applications.
 
 🌟 **Fun Fact**: I started my programming journey at the age of 13 with C++ and have since grown passionate about data science and machine learning.
 

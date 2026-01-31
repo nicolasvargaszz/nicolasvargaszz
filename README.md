@@ -81,8 +81,6 @@
 ### 💬 Connect with Me
 
 - **[Personal Website (English)](https://nicolasvargaszz.github.io/Cv-Page-English/)**
-- **[Personal Website (Español)](https://nicolasvargaszz.github.io/cv-page/)**
-- **[Twitter](https://twitter.com/nicoelingeniero)**
 - **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)**
 
 ---

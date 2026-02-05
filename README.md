@@ -63,8 +63,9 @@
 ### 📊 GitHub Stats & Contributions
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasvargaszz&show_icons=true&theme=vue-dark&hide_border=true)
-[![Nico's Streak](https://streak-stats.demolab.com?user=nicolasvargaszz&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-![Nicolas Vargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=nicolasvargaszz&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&layout=compact&theme=vue-dark&hide_border=true)
+
 
 ---
 

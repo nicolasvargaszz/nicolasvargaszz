@@ -1,18 +1,18 @@
-# Hi there, I'm Nicolás Vargas 👋 
+# Hi there, I'm Nicolás Vargas 👋
 
-[![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fnicolasvargaszz.github.io%2Fcvs-page%2F)](https://nicolasvargaszz.github.io/Cv-Page-English/)
+[![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fnicolasvargaszz.github.io%2FCv-Page-English%2F)](https://nicolasvargaszz.github.io/Cv-Page-English/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicoelingeniero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nicoelingeniero)
 
 ## About Me
 
-🎓 **Currently**: I am pursuing a degree in Computer Science @UPTP 🇹🇼🇵🇾 engineering and exploring advanced topics in Data Science and Machine Learning.
+🎓 **Currently**: I'm pursuing a Computer Science degree at UPTP and exploring Data Science + Machine Learning.
 
-💡 **Learning Goals for 2026**: Deepen my knowledge in Automatization, creating AI agents, and their applications in real the real world.
+💡 **Learning Goals for 2026**: Deepen my knowledge in automation, AI agents, and real-world applications.
 
-🌐 **Languages**: I speak English, German, Spanish, and Guarani.
+🌐 **Languages**: English, German, Spanish, and Guarani.
 
-📈 **Objective**: Leveraging my skills in Python, AI, LLMS, and n8n.
+📈 **Focus**: Building practical solutions with Python, AI/LLMs, and n8n.
 
 ---
 
@@ -21,7 +21,6 @@
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-
 
 #### Data Science & Analysis
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -59,20 +58,23 @@
 ---
 
 ### 📊 GitHub Stats & Contributions
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolasvargaszz&show_icons=true&theme=vue-dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=nicolasvargaszz&theme=highcontrast&hide_border=true)
-![Top](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolasvargaszz&layout=compact&theme=vue-dark&hide_border=true)
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasvargaszz&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nicolasvargaszz&theme=highcontrast&hide_border=true)
 
 ---
 
 ### 📂 Key Projects
 
-- **[Stock Machine Learning](https://github.com/nicolasvargaszz/stock-MachineLearning)**: Intelligent inventory management for a fabric company in Paraguay using machine learning. The project follows the CRISP-DM methodology and explores various models for time series forecasting, including Facebook Prophet.
+- **[Stock Machine Learning](https://github.com/nicolasvargaszz/stock-MachineLearning)**: Intelligent inventory management for a fabric company in Paraguay using machine learning. The project follows the CRISP-DM methodology and explores time-series forecasting models, including Facebook Prophet.
 
-- **[Acute Lymphoblastic Leukemia Classifier](https://github.com/nicolasvargaszz/acute-lymphoblastic-leukemia-classifier)**: A Flask-based web application for classifying leukemia images into specific types and stages using TensorFlow and scikit-image.
+- **[Acute Lymphoblastic Leukemia Classifier](https://github.com/nicolasvargaszz/acute-lymphoblastic-leukemia-classifier)**: A Flask web app for classifying leukemia images into specific types and stages using TensorFlow and scikit-image.
 
-- **[Azure Voice-to-Text](https://github.com/nicolasvargaszz/Azure-Voice-to-Text)**: A hackathon project that uses Azure Cognitive Services for text-to-speech and text classification, integrated into a medical consultation app called Poharogapp.
+- **[Azure Voice-to-Text](https://github.com/nicolasvargaszz/Azure-Voice-to-Text)**: A hackathon project that uses Azure Cognitive Services for speech and text classification, integrated into a medical consultation app called Poharogapp.
 
 ---
 
@@ -83,14 +85,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-- **Commits**: Keep track of my contributions to various repositories and projects.
-- **Pull Requests**: I actively contribute to open-source projects and collaborate with other developers.
-- **Issues**: Engaging with the community by opening and resolving issues.
-
----
-
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
@@ -98,9 +92,7 @@
 
 ---
 
-Feel free to reach out or explore my projects. I'm always excited to collaborate and share knowledge with fellow developers!
-
----
+Thanks for visiting my profile — feel free to explore my projects or reach out if you'd like to collaborate.
 
 Nicolás Vargas  
 **Python Programmer | Data Scientist | Data Analyst**

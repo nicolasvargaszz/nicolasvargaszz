@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolás Vargas 👋
+# Hi there, I'm Nicolás Vargas 🧑🏻‍💻
 
 [![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fnicolasvargaszz.github.io%2FCv-Page-English%2F)](https://nicolasvargaszz.github.io/Cv-Page-English/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)

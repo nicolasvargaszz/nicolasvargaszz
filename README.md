@@ -1,6 +1,6 @@
 # Nicolás Vargas
 
-**Machine Learning & AI Developer** · Computer Engineering @ UPTP 🇵🇾🇹🇼
+**Machine Learning & AI Developer** · Computer Engineering 
 
 I build machine learning systems that make it to production — forecasting, computer vision, NLP — and I'm currently working on applied Generative AI: LLMs, RAG and agentic workflows.
 
@@ -21,7 +21,6 @@ I build machine learning systems that make it to production — forecasting, com
 ## What I'm working on
 
 - 🤖 **Applied GenAI** — building RAG pipelines with vector databases, and shipping LLM features with proper evaluation and observability.
-- 🎓 **Thesis mentoring** — I've guided 15 Computer Science students through their ML thesis projects, from problem framing to defense.
 - 🇹🇼 **Next** — heading to Taiwan on an academic exchange, looking to work on real AI research and engineering.
 
 ---
@@ -37,11 +36,6 @@ Flask web app that classifies leukemia cell images into 4 subtypes using compute
 Inventory and demand forecasting for a Paraguayan fabric company. Built end-to-end following the CRISP-DM methodology, comparing time-series models to predict future sales and required stock.
 
 `Python` · `Prophet` · `Time Series` · `CRISP-DM`
-
-### 🎙️ [Azure Voice-to-Text — Poharogapp](https://github.com/nicolasvargaszz/Azure-Voice-to-Text)
-Hackathon project: a medical consultation app that transcribes doctor-patient speech and classifies the resulting text.
-
-`Python` · `Azure Cognitive Services` · `Speech-to-Text` · `NLP`
 
 ### 📊 [Datamining Forecasting](https://github.com/nicolasvargaszz/Datamining_Forecasting)
 Data mining studies for sales and stock prediction inside a company.

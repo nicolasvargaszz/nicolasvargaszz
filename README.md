@@ -1,4 +1,4 @@
-# Nicolás Vargas
+# Nicolás Vargas 👨‍💻
 
 **Machine Learning & AI Developer** · Computer Engineering 
 

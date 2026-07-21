@@ -1,98 +1,89 @@
-# Hi there, I'm Nicolás Vargas 🧑🏻‍💻
+# Nicolás Vargas
 
-[![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fnicolasvargaszz.github.io%2FCv-Page-English%2F)](https://nicolasvargaszz.github.io/Cv-Page-English/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nicoelingeniero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nicoelingeniero)
+**Machine Learning & AI Developer** · Computer Engineering @ UPTP 🇵🇾🇹🇼
 
-## About Me
+I build machine learning systems that make it to production — forecasting, computer vision, NLP — and I'm currently working on applied Generative AI: LLMs, RAG and agentic workflows.
 
-🎓 **Currently**: I'm pursuing a Computer Science degree at UPTP and exploring Data Science + Machine Learning.
-
-💡 **Learning Goals for 2026**: Deepen my knowledge in automation, AI agents, and real-world applications.
-
-🌐 **Languages**: English, German, Spanish, and Guarani.
-
-📈 **Focus**: Building practical solutions with Python, AI/LLMs, and n8n.
+[Portfolio](https://nicolasvargaszz.github.io/Cv-Page-English/) · [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/) · [Blog](https://medium.com/@navo2104) · navo2104@gmail.com
 
 ---
 
-### 🛠️ Technologies & Tools
+## 👾 My contributions, as a Pac-Man maze
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-
-#### Data Science & Analysis
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-9B9B9B?style=flat&logo=python&logoColor=white)
-![Text Classification](https://img.shields.io/badge/Text%20Classification-009688?style=flat&logo=python&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-4CAF50?style=flat&logo=python&logoColor=white)
-
-#### Data Visualization
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![Microstrategy](https://img.shields.io/badge/Microstrategy-FB2D42?style=flat&logo=microstrategy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-6D4C41?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F7BEB?style=flat&logo=plotly&logoColor=white)
-
-#### Database Technologies
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-#### Cloud Platforms
-![Azure Cognitive Services](https://img.shields.io/badge/Azure%20Cognitive%20Services-00A4EF?style=flat&logo=microsoftazure&logoColor=white)
-
-#### Web Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-
-#### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-#### Mobile App Development
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-2E7D32?style=flat&logo=retrofit&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasvargaszz/nicolasvargaszz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasvargaszz/nicolasvargaszz/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/nicolasvargaszz/nicolasvargaszz/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+## What I'm working on
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasvargaszz&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nicolasvargaszz&theme=highcontrast&hide_border=true)
+- 🤖 **Applied GenAI** — building RAG pipelines with vector databases, and shipping LLM features with proper evaluation and observability.
+- 🎓 **Thesis mentoring** — I've guided 15 Computer Science students through their ML thesis projects, from problem framing to defense.
+- 🇹🇼 **Next** — heading to Taiwan on an academic exchange, looking to work on real AI research and engineering.
 
 ---
 
-### 📂 Key Projects
+## Featured Projects
 
-- **[Stock Machine Learning](https://github.com/nicolasvargaszz/stock-MachineLearning)**: Intelligent inventory management for a fabric company in Paraguay using machine learning. The project follows the CRISP-DM methodology and explores time-series forecasting models, including Facebook Prophet.
+### 🧬 [Acute Lymphoblastic Leukemia Classifier](https://github.com/nicolasvargaszz/acute-lymphoblastic-leukemia-classifier)
+Flask web app that classifies leukemia cell images into 4 subtypes using computer vision, aimed at supporting faster diagnostic screening.
 
-- **[Acute Lymphoblastic Leukemia Classifier](https://github.com/nicolasvargaszz/acute-lymphoblastic-leukemia-classifier)**: A Flask web app for classifying leukemia images into specific types and stages using TensorFlow and scikit-image.
+`Python` · `TensorFlow` · `scikit-image` · `Flask` · `Computer Vision`
 
-- **[Azure Voice-to-Text](https://github.com/nicolasvargaszz/Azure-Voice-to-Text)**: A hackathon project that uses Azure Cognitive Services for speech and text classification, integrated into a medical consultation app called Poharogapp.
+### 📦 [Stock Machine Learning — Demand Forecasting](https://github.com/nicolasvargaszz/stock-MachineLearning)
+Inventory and demand forecasting for a Paraguayan fabric company. Built end-to-end following the CRISP-DM methodology, comparing time-series models to predict future sales and required stock.
+
+`Python` · `Prophet` · `Time Series` · `CRISP-DM`
+
+### 🎙️ [Azure Voice-to-Text — Poharogapp](https://github.com/nicolasvargaszz/Azure-Voice-to-Text)
+Hackathon project: a medical consultation app that transcribes doctor-patient speech and classifies the resulting text.
+
+`Python` · `Azure Cognitive Services` · `Speech-to-Text` · `NLP`
+
+### 📊 [Datamining Forecasting](https://github.com/nicolasvargaszz/Datamining_Forecasting)
+Data mining studies for sales and stock prediction inside a company.
+
+`Python` · `Data Mining` · `Forecasting`
 
 ---
 
-### 💬 Connect with Me
+## Tech Stack
 
-- **[Personal Website (English)](https://nicolasvargaszz.github.io/Cv-Page-English/)**
-- **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)**
+**Languages** — Python · SQL · TypeScript · C++
+
+**ML & AI** — scikit-learn · PyTorch · TensorFlow · OpenCV · NLP & text classification · Prophet
+
+**Generative AI** — LLMs · RAG · vector databases · semantic retrieval · prompt engineering
+
+**Data** — Pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI · CRISP-DM
+
+**Web & Infra** — Next.js · Flask · Tailwind · MySQL · SQL Server · Azure Cognitive Services · Git · n8n
 
 ---
 
-### 🔥 Recent Activity
+## Certifications
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- **GenAI Development Program** — itti (Grupo ueno), 2026 — LLM fundamentals, spec-driven development, RAG with vector databases, TypeScript/Next.js integration, production observability
+- **Data Science Course** — Penguin Academy, 2024
+- **Statistics for Data Science & Data Visualization** — MicroStrategy, 2022–2023
+- **Programming Bootcamp** — Penguin Academy, 2022
 
 ---
 
-Thanks for visiting my profile — feel free to explore my projects or reach out if you'd like to collaborate.
+## 📈 Stats
 
-Nicolás Vargas  
-**Python Programmer | Data Scientist | Data Analyst**
+<a href="https://github.com/nicolasvargaszz">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasvargaszz&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/nicolasvargaszz">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvargaszz&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</a>
+
+---
+
+🌐 **Languages:** Spanish (native) · Guaraní (native) · English (advanced) · German (intermediate)
+
+*Open to collaboration, research and internship opportunities in AI and machine learning.*

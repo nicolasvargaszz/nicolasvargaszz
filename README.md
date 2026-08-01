@@ -8,8 +8,6 @@ I build machine learning systems that make it to production — forecasting, com
 
 ---
 
-## 👾 My contributions, as a Pac-Man maze
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasvargaszz/nicolasvargaszz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasvargaszz/nicolasvargaszz/output/pacman-contribution-graph.svg">
